@@ -1,0 +1,12 @@
+evens=6:2:33;
+threes=8:3:38;
+reverse=20:(-1):10;
+theta=0:(2*pi/9):2*pi;
+myZeros=zeros(1,15);
+random=1+11*rand(1,15);
+disp('evens is:');disp(evens);
+disp('threes is:');disp(threes);
+disp('reverse is:');disp(reverse);
+disp('theta is:');disp(theta);
+disp('myZeros is:');disp(myZeros);
+disp('random is:');disp(random);

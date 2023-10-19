@@ -1,0 +1,1 @@
+r = checkFactor(25,6);
